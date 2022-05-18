@@ -6,8 +6,7 @@ void main() {
 
   var DatOfBirth = 2021; //his day of birth
 
-  print(
-      ' Name : ${name} Mobile Number : ${mobile_num} Date Of Birth : ${DatOfBirth}');
+  print(' Name : ${name} Mobile Number : ${mobile_num} Date Of Birth : ${DatOfBirth}');
   print(mobile_num[4]);
   print(name.length);
 }
