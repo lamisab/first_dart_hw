@@ -1,5 +1,3 @@
-
-
 void main() {
   //github
   const name = "Fahad Abdullah"; //name of the boy
